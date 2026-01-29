@@ -1,4 +1,4 @@
-# netaddr
+# Address Parser
 
 ![Rust](https://img.shields.io/badge/language-Rust-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
